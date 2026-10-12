@@ -1,0 +1,5 @@
+fastapi==0.142.2
+uvicorn[standard]>=0.30
+PyJWT==2.12.1
+httpx==0.28.1
+monday-code~=2.1
